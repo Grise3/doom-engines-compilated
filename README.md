@@ -10,3 +10,5 @@ Engines :
 * chocolate-doom
 * crispy-doom
 * dsda-doom
+* zdoom
+* gzdoom
